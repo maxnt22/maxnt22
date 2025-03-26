@@ -1,7 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=header"/>
+# Max - Cientista de Dados
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+max+campos;I'm+22+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+%29)](https://git.io/typing-svg)
+<!-- Banner animado profissional -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" 
+       alt="Professional Animated Banner" 
+       style="width: 100%; max-width: 800px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
 
+## Sobre Mim
+Olá, eu sou **Max**, um cientista de dados apaixonado por transformar dados em insights.  
+Tenho experiência em:
+- **Linguagens:** Python, SQL
+- **Ferramentas:** Word, Express
+- **Áreas de Atuação:** Machine Learning, Data Analysis, Business Intelligence
 
-### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+## Projetos Recentes
+- **Projeto A:** Breve descrição do projeto, tecnologias utilizadas e resultados alcançados.
+- **Projeto B:** Outra breve descrição destacando os desafios e soluções aplicadas.
+- **Projeto C:** Descrição resumida do projeto, ressaltando seu impacto e aprendizados.
 
+## Estatísticas do GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact)](https://github.com/SeuUsuario/github-readme-stats)
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
+- Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
