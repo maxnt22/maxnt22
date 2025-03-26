@@ -27,14 +27,7 @@ Estou sempre em busca de novos desafios e projetos inovadores!
 ## 🌐 Contato e Redes Sociais
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/seu-usuario)
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=radical" alt="Top Linguagens"/>
-</p>
 
 ## 📁 Projetos em Destaque
 
