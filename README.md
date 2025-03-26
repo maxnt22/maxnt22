@@ -1,10 +1,10 @@
-# Max - Cientista de Dados
+# Max campos- Cientista de Dados
 
-<!-- Banner animado profissional -->
+
 <div align="center">
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" 
        alt="Professional Animated Banner" 
-       style="width: 100%; max-width: 800px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+       style="width: 100%; max-width: 600px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </div>
 
 ## Sobre Mim
@@ -14,10 +14,7 @@ Tenho experiência em:
 - **Ferramentas:** Word, Express
 - **Áreas de Atuação:** Machine Learning, Data Analysis, Business Intelligence
 
-## Projetos Recentes
-- **Projeto A:** Breve descrição do projeto, tecnologias utilizadas e resultados alcançados.
-- **Projeto B:** Outra breve descrição destacando os desafios e soluções aplicadas.
-- **Projeto C:** Descrição resumida do projeto, ressaltando seu impacto e aprendizados.
+
 
 ## Estatísticas do GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact)](https://github.com/SeuUsuario/github-readme-stats)
